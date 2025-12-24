@@ -45,7 +45,7 @@ export function Header() {
 
         <div className="hidden md:block">
           <a
-            href="https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scope=bot%20applications.commands"
+            href="https://discord.com/oauth2/authorize?client_id=1252648819129188404&permissions=8&integration_type=0&scope=bot+applications.commands"
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-2 bg-[#e5e5e5] text-[#0f0f0f] text-sm font-medium rounded-lg hover:bg-[#d4d4d4] transition-colors"
